@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Juanfe Gallego
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I am a java jr programmer with 4 years of experience
+- 🌱I am in the process of learning python in automations
+- 💞️ co-founder at NeoApp
+- 📫 you can contact me at wp 3175666382
+- 📫 email juanfegallegod@gmail.com
 
 <!---
 Jf-themo/Jf-themo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
