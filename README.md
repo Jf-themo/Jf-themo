@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Juanfe Gallego
-- 👀 I am a java jr programmer with 4 years of experience
-- 🌱I am in the process of learning python in automations
-- 💞️ co-founder at NeoApp
+#    Ing. Juanfe Gallego
+- 👋 Hi, I'm electronic engineer
+- 👀 I am a backend developer with 6 years of experience
+- 🌱 Process automater applying Python and its different libraries
+- 💞️ co-founder at NeoApp Ingenieria SAS
 - 📫 you can contact me at wp 3175666382
 - 📫 email juanfegallegod@gmail.com
 
